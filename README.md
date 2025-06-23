@@ -35,7 +35,6 @@ GET https://guard.msnolix.com/api?action=encrypt&data=Hello%20World&key=mySecret
 ```json
 {
   "success": true,
-  "action": "encrypt",
   "result": "BASE64_ENCRYPTED_STRING"
 }
 ```
@@ -47,7 +46,6 @@ GET https://guard.msnolix.com/api?action=decrypt&data=BASE64_ENCRYPTED_STRING&ke
 ```json
 {
   "success": true,
-  "action": "decrypt",
   "result": "Hello World"
 }
 ```
