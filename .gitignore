@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Node or Python if used
+node_modules/
+venv/
+__pycache__/
+
+# Output files
+*.log
+*.zip
