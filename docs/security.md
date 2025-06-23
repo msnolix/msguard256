@@ -36,7 +36,7 @@ MS-GUARD-256 is designed to be a secure, stateless AES-256-GCM encryption API bu
 
 If you discover a security vulnerability, please report it privately:
 
-- 📧 Email: `security@msnolix.com`
+- 📧 Email: `msnolix@gmail.com`
 
 We will respond within **48 hours** and coordinate a responsible disclosure.
 
