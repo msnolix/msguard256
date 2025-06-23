@@ -1,7 +1,7 @@
 # 🔐 MS-GUARD-256 Encryption API Documentation
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/msnolix" target="_blank">
+  <a href="https://guard.msnolix.com/donate" target="_blank">
     <img src="assets/buymeacofee.png" alt="Buy Me a Coffee" height="60" />
   </a>
 </p>
