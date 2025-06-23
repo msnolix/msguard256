@@ -1,11 +1,5 @@
 # 🔐 MS-GUARD-256 Encryption API Documentation
 
-<p align="center">
-  <a href="https://guard.msnolix.com/donate" target="_blank">
-    <img src="assets/buymeacofee.png" alt="Buy Me a Coffee" height="60" />
-  </a>
-</p>
-
 > **Secure AES-256-GCM API with PBKDF2 key derivation**  
 > Developed by [MSNOLIX](https://msnolix.com) – Try it live at [https://guard.msnolix.com](https://guard.msnolix.com)
 
