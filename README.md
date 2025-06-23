@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/msnolix" target="_blank">
-    <img src="https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange?style=for-the-badge" alt="Buy Me A Coffee">
+    <img src="assets/buymeacofee.png" alt="Buy Me a Coffee" height="60" />
   </a>
 </p>
 
