@@ -127,7 +127,7 @@ echo "Decrypted: " . $dec['result'] . "\n";
 
 If you like this tool, consider supporting us:
 
-<a href="https://buymeacoffee.com/msnolix">
+<a href="https://pages.razorpay.com/msnolix">
   <img src="assets/yellow-button.png" alt="Buy Me a Coffee" width="200" />
 </a>
 
