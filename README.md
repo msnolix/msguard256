@@ -127,7 +127,7 @@ echo "Decrypted: " . $dec['result'] . "\n";
 
 If you like this tool, consider supporting us:
 
-[![Buy Me a Coffee](./assets/buymeacofee.png)](https://guard.msnolix.com/donate)
+<a href="https://www.buymeacoffee.com/msnolix"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=msnolix&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ---
 
