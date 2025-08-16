@@ -139,4 +139,4 @@ If you like this tool, consider supporting us:
 
 ---
 
-© 2025 MSNOLIX – All rights reserved.
+© 2025 MSGUARD | Powered by MSNOLIX
